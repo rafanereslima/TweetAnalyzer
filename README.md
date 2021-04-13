@@ -10,7 +10,7 @@ Conteúdo do Projeto
    * Sobre
       * Imagine analisar o sentimento que cada tweet representa? Temos a solução com esse app simples e eficaz!
    * Solução
-      * Digitando o nome de usuário e clicando em analisar, o app apresenta a lista dos últimos 10 tweets do usuário. Ao clicar em cada um dos tweets, o usuário recebe o alerta com a resposta da análise.
+      * Digitando o nome de usuário Twitter e clicando em analisar, o app apresenta a lista dos últimos 10 tweets do mesmo. Ao clicar em cada um dos tweets, o usuário recebe o alerta com a resposta da análise.
    * Arquitetura do App
       * App desenvolvido baseado na arquitetura Clean, totalmente em Kotlin, utilizando Retrofit2 e OkHttp para requisições.
    * Integração API

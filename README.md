@@ -20,6 +20,8 @@ Conteúdo do Projeto
       * Visual baseado nas cores oficiais da guideline de design do Twitter e elementos Material Design.
    * Testes
       * Testes básicos de UI e unitários.
+   * Melhorias próxima versão
+      * Adequar o projeto para arquitetura Clean + MVVM, utilizar Navigation Component e Fragment para navegação entre as telas.
 <!--te-->
 
 ©2021 Desenvolvido por Rafael Neres Lima

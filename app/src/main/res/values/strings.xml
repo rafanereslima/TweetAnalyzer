@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tweet Analyzer</string>
+
+    <string name="home_tv_tittle">Insira o nome de usuário do Twitter que deseja visualizar e analisar os Tweets</string>
+    <string name="home_tv_subtittle">Perfil preferencialmente em inglês 😀</string>
+
+    <string name="list_tv_tittle">Veja aqui os últimos Tweets do perfil. Selecione para analisar o sentimento de cada um deles 😉</string>
+    <string name="list_tv_no_tweets">Este perfil ainda não tem tweets publicados :(</string>
+</resources>
